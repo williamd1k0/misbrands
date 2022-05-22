@@ -16,4 +16,12 @@ Of course, that's why those are here.
 Yes, you can! Not from me, but from any custom sticker vendor of your choice.
 
 #### Will there be more?
-Unlikely but still possible.
+This is a fork of the original repo that hadn't been updated in some time. I'm
+working on adding new logos that were submitted as pull requests to the original
+repo.
+
+Anyone is also welcome to submit new pull requests to this repo directly.
+
+#### TODO
+- [-] Finish importing pull requests
+- [ ] Naming conventions
