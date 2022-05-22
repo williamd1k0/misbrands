@@ -22,6 +22,20 @@ repo.
 
 Anyone is also welcome to submit new pull requests to this repo directly.
 
+When submitting a pull request please follow these naming conventions:
+`[text]-[logo name]`
+
+Example: The text says python in the logo style of php.
+`python-php.svg`
+
+If there is a file with that name already existing simply add a dash and a
+number starting with 02 and incrementing up from there.
+
+Example: You submit a logo that says emacs in the style of the vim logo.
+There is already an `emacs-vim.svg` in the repo.
+Name your file `emacs-vim-02.svg`.
+
 #### TODO
-- [-] Finish importing pull requests
-- [ ] Naming conventions
+- [ ] Finish importing pull requests
+- [x] Naming conventions
+- [ ] Standard image size
